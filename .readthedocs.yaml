@@ -5,6 +5,7 @@ python:
     - requirements: source/rtd_requirements.txt
     - method: pip
       path: .
+sphix:
 
 build:
   os: ubuntu-22.04
