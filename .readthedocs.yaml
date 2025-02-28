@@ -5,7 +5,7 @@ python:
     - requirements: source/rtd_requirements.txt
     - method: pip
       path: .
-sphix: source/conf.py
+sphinx: source/conf.py
 configuration: docs/conf.py
 
 build:
